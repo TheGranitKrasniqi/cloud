@@ -1,4 +1,4 @@
-# <Project Title>: <Tagline>
+[# <Project Title>: <Tagline>
 
 <!-- Build, Coverage and Security badges -->
 
@@ -106,3 +106,4 @@ Live demo is hosted at:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+](https://github.com/TheGranitKrasniqi/)
